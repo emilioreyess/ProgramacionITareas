@@ -1,4 +1,4 @@
-// Recursor: Emilio Jose Reyes Aragón
+// Revisor: Emilio Jose Reyes Aragón
 // Separa un numero entero en sus digitos
 Algoritmo Digitos
 	Escribir 'Ingrese un numero entero postivo:'

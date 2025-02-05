@@ -1,4 +1,4 @@
-// Recursor: Emilio Jose Reyes Aragón
+// Revisor: Emilio Jose Reyes Aragón
 Algoritmo Romanos
 	// leer el número
 	Escribir 'Ingrese un número entre 1 y 1000'

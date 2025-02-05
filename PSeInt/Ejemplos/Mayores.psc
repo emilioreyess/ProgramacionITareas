@@ -1,4 +1,4 @@
-// Recursor: Emilio Jose Reyes Aragón
+// Revisor: Emilio Jose Reyes Aragón
 // Busca los dos mayores de una lista de N datos
 Algoritmo Mayores
 	// primero se declara un arreglo de 200 elementos

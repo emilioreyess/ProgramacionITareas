@@ -1,4 +1,4 @@
-// Recursor: Emilio Jose Reyes Aragón
+// Revisor: Emilio Jose Reyes Aragón
 Algoritmo EjemploFechaHora
 	fa <- FechaActual()
 	anio <- trunc(fa/10000) // retorna un solo nro entero en formato AAAAMMDD

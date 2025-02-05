@@ -1,4 +1,4 @@
-// Recursor: Emilio Jose Reyes Aragón
+// Revisor: Emilio Jose Reyes Aragón
 // funcion que no recibe ni devuelve nada
 Función Saludar
 	Escribir 'Hola mundo!'

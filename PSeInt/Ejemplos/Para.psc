@@ -1,4 +1,4 @@
-// Recursor: Emilio Jose Reyes Aragón
+// Revisor: Emilio Jose Reyes Aragón
 // Para poder ejecutar correctamente este ejemplo debe tener
 // habilitada la sintaxis flexible en su perfil de lenguaje
 Algoritmo sin_titulo

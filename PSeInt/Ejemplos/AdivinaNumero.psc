@@ -1,4 +1,4 @@
-// Recursor: Emilio Jose Reyes Aragón
+// Revisor: Emilio Jose Reyes Aragón
 // Juego simple que pide al usuario que adivine un numero en 10 intentos
 Algoritmo Adivina_Numero
 	intentos <- 10

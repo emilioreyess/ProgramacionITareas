@@ -1,4 +1,4 @@
-//Recursor: Emilio Jose Reyes Aragón
+//Revisor: Emilio Jose Reyes Aragón
 
 // este es el ejemplo más simple de esta ayuda, 
 // toma dos numeros, los suma y muestra el resultado

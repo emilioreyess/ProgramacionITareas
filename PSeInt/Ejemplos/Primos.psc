@@ -1,4 +1,4 @@
-// Recursor: Emilio Jose Reyes Aragón
+// Revisor: Emilio Jose Reyes Aragón
 // Encuentra los primeros N numeros primos
 Algoritmo Primos
 	Escribir 'Ingrese la cantidad de numeros primos a mostrar:'

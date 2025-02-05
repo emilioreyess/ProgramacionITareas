@@ -1,4 +1,4 @@
-// Recursor: Emilio Jose Reyes Aragón
+// Revisor: Emilio Jose Reyes Aragón
 // Problema Ejemplo:
 // Se ingresan los precios de 5 articulos y las cantidades vendidas
 // por una empresa en sus 4 sucursales. Informar:

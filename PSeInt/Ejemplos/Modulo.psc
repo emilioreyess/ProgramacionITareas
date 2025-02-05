@@ -1,4 +1,4 @@
-// Recursor: Emilio Jose Reyes Aragón
+// Revisor: Emilio Jose Reyes Aragón
 Algoritmo Modulo
 	Escribir 'Ingrese el numero: '
 	Leer N

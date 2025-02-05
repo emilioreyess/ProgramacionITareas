@@ -1,4 +1,4 @@
-// Recursor: Emilio Jose Reyes Aragón
+// Revisor: Emilio Jose Reyes Aragón
 // Calcula el promedio de una lista de N datos utilizando un SubProceso
 Función prom <- Promedio (arreglo,cantidad)
 	suma <- 0

@@ -1,4 +1,4 @@
-// Recursor: Emilio Jose Reyes Aragón
+// Revisor: Emilio Jose Reyes Aragón
 // El objetivo del juego es mover los discos de la torre 1 a la 3 en la
 // menor cantidad de movimientos posible. No se puede colocar un disco de 
 // un tamanio sobre otro mas chico
